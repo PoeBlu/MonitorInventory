@@ -91,5 +91,3 @@ Foreach ($QueryResult in $QueryResults)
      
 
 }
-
-#Stop-Transcript
